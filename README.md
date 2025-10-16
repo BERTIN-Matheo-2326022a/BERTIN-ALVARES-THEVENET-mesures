@@ -1,2 +1,3 @@
-# BERTIN-ALVARES-THEVENET-mesures
-Dépôt Qualité de Dev R5.A.08
+BERTIN Mathéo
+ALVARES Titouan
+THEVENET Antoine
