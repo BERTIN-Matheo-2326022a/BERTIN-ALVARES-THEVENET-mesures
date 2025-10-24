@@ -1,0 +1,9 @@
+D’après la définition d’une mesure valide dans la Théorie de la mesure,
+en quoi le fait que certaines métriques de Halstead soient difficiles à 
+justifier peut mettre en doute leur validité ?
+
+D'après la Théorie des mesures, nous avons différents ensembles qui
+correspondent à diverses parties d'un code donné. Ces ensembles peuvent être
+associés avec les mesures de Halstead mais le résultat de ladite association
+va alors grandement varier d'un utilisateur à l'autre, rendant le tout 
+difficilement déterminable, et donc justifiable.
